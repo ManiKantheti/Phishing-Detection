@@ -5,7 +5,6 @@ import pickle
 import random
 import pickle
 from urllib.parse import urlparse
-import whois
 import requests
 from bs4 import BeautifulSoup
 import datetime
