@@ -6,7 +6,7 @@ import random
 import pickle
 from urllib.parse import urlparse
 import requests
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import datetime
 from dateutil.parser import parse as date_parse
 import re
