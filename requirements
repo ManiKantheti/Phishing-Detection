@@ -1,7 +1,7 @@
 whois
 streamlit-login-auth-ui
 pickle
-bs4
+beautifulsoup4
 requests
 dateutil
 urllib
